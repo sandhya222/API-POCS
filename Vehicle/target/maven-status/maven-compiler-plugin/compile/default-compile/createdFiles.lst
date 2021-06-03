@@ -1,0 +1,7 @@
+com\example\digital\servicing\vehicle\repository\VehicleRepository.class
+com\example\digital\servicing\vehicle\exception\VehicleExceptionHandler.class
+com\example\VehicleApplication.class
+com\example\digital\servicing\vehicle\exception\VehicleNotFoundException.class
+com\example\digital\servicing\vehicle\controller\VehicleController.class
+com\example\digital\servicing\vehicle\model\Vehicle.class
+com\example\digital\servicing\vehicle\service\VehicleService.class

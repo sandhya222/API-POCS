@@ -1,0 +1,3 @@
+com\example\digital\validation\model\User.class
+com\example\digital\validation\repository\UserRepository.class
+com\example\UserValidationApplication.class
